@@ -20,7 +20,7 @@ El constructor configura el marco principal, crea la barra de menú y añade los
 
 ## codigo
 
-package interfaz;
+````package interfaz;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
@@ -32,7 +32,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
 
 public class Interfaz extends Application {
-
+````
     @Override
     public void start(Stage primaryStage) {
         // Crear la barra de menú principal
